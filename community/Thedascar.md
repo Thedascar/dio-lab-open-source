@@ -1,8 +1,7 @@
 ##### Name:
 
 # Lucas Ramon -> Git (TheDascar)
-I'm Full Stack Developer, by Simiao Express since 2019.
-I worked as an IT Technician for 10 years.
+
 
 ### Hard Skills
 ![HTML](https://img.shields.io/badge/HTML-red)
